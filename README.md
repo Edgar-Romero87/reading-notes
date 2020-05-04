@@ -9,15 +9,6 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [HTML Lists, CSS Boxes, JS Control Flow](content/class-03.md)
 * [HTML Links, CSS Layout, JS Functions](content/class-04.md)
 * [HTML Images; CSS Color & Text](content/class-05.md)
-[JS Object Literals; The DOM](content/class-06)
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* [JS Object Literals; The DOM](content/class-06)
+
 
