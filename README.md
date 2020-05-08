@@ -13,3 +13,4 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [HTML Tables; JS Constructor Functions](content/class-07.md)
 * [Forms and Events](content/class-09.md)
 * [Layot](content/class-08.md)
+* [Error Handling & Debugging](content/class-10.md)
