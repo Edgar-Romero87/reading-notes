@@ -14,3 +14,5 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [Forms and Events](content/class-09.md)
 * [Layot](content/class-08.md)
 * [Error Handling & Debugging](content/class-10.md)
+* [Assorted Topics](content/class-11.md)
+* [Charts](content/class-12.md)
