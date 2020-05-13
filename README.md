@@ -16,3 +16,4 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [Error Handling & Debugging](content/class-10.md)
 * [Assorted Topics](content/class-11.md)
 * [Charts](content/class-12.md)
+* [Local Storage](content/class-13.md)
