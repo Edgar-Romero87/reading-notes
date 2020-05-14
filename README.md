@@ -18,3 +18,4 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [Charts](content/class-12.md)
 * [Local Storage](content/class-13.md)
 * [CSS Animatons](content/class-14.md)
+* [What Google Learned About Teams](content/clas-15.md)
