@@ -19,3 +19,6 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [Local Storage](content/class-13.md)
 * [CSS Animatons](content/class-14.md)
 * [What Google Learned About Teams](content/clas-15.md)
+
+# **Code 301 Reading Notes**
+* [Shay Howe's intro to RWD, All About Floats](301/class01.md)
