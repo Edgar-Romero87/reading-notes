@@ -22,3 +22,4 @@ This page contains all the notes from my 201 class on Code Fellows.
 
 # **Code 301 Reading Notes**
 * [Shay Howe's intro to RWD, All About Floats](301/class01.md)
+* [jQuery, Events, and The DOM. 6 Reasons for Pair Programing](301/class-02.md)
