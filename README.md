@@ -25,3 +25,4 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [jQuery, Events, and The DOM. 6 Reasons for Pair Programing](301/class-02.md)
 * [MUSTACHE and FLEXBOX](301/class-03.md)
 * [REGEX AND GRID](301/class-04.md)
+* [NODE.JS](301/class-06.md)
