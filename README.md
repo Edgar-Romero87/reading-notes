@@ -27,3 +27,4 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [REGEX AND GRID](301/class-04.md)
 * [NODE.JS](301/class-06.md)
 * [REST](301/class-07.md)
+* [SQL](301/class-08.md)
