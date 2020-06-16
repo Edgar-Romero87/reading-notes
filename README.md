@@ -30,3 +30,5 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [SQL](301/class-08.md)
 * [Refactoring](301/class-09.md)
 * [The Call Stack](301/class-10.md)
+* [EJS](301/class-11.md)
+* [EJS Partials](301/class-12.md)
