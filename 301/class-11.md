@@ -1,4 +1,16 @@
 # EJS
+
+[EJS Tutorial](https://www.youtube.com/playlist?list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt)
+
+[Resource Google Books API](https://developers.google.com/books/docs/v1/using#WorkingVolumes)
+
+[EJS Docs](https://ejs.co)
+
+[EJS Tutorial](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
+
+[Source Code for EJS Tutorial](https://github.com/scotch-io/node-ejs)
+
+
 - First step - npm init
 - then npm install express, body parser, cors, ejs
 - var express = require (‘express);
