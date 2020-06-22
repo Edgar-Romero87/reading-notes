@@ -21,7 +21,7 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [What Google Learned About Teams](content/clas-15.md)
 
 # **Code 301 Reading Notes**
-* [Shay Howe's intro to RWD, All About Floats](301/class01.md)
+* [Shay Howe's intro to RWD, All About Floats](301/class-01.md)
 * [jQuery, Events, and The DOM. 6 Reasons for Pair Programing](301/class-02.md)
 * [MUSTACHE and FLEXBOX](301/class-03.md)
 * [REGEX AND GRID](301/class-04.md)
@@ -32,3 +32,6 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [The Call Stack](301/class-10.md)
 * [EJS](301/class-11.md)
 * [EJS Partials](301/class-12.md)
+* [Update/Delete](301/class-13.md)
+* [DataBase Normalization](301/class-14.md)
+* [Diversity and Inclusion](301/class-15.md)
