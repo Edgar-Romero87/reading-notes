@@ -1,8 +1,8 @@
-# **Code 201 Reading Notes**
+# **CodeFellows Reading Notes**
 
-This page contains all the notes from my 201 class on Code Fellows. 
+This page contains all the notes from my Code Fellows classes. 
 
-## Table Of Content
+# **Code 201** 
 
 * [Structures of a web Page; Markup; HTML5 Elements; Process and Design; The ABC of Programing](content/class-01.md)
 * [HTML Text; CSS Introduction and Basic JavaScript Instructions](content/class-02)
@@ -20,7 +20,7 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [CSS Animatons](content/class-14.md)
 * [What Google Learned About Teams](content/clas-15.md)
 
-# **Code 301 Reading Notes**
+# **Code 301**
 * [Shay Howe's intro to RWD, All About Floats](301/class-01.md)
 * [jQuery, Events, and The DOM. 6 Reasons for Pair Programing](301/class-02.md)
 * [MUSTACHE and FLEXBOX](301/class-03.md)
@@ -35,3 +35,6 @@ This page contains all the notes from my 201 class on Code Fellows.
 * [Update/Delete](301/class-13.md)
 * [DataBase Normalization](301/class-14.md)
 * [Diversity and Inclusion](301/class-15.md)
+
+# **Code 401**
+* [Node Ecosystem, TDD, CI/CD](401/class01.md)
