@@ -39,3 +39,5 @@ This page contains all the notes from my Code Fellows classes.
 # **Code 401**
 * [Node Ecosystem, TDD, CI/CD](401/class01.md)
 * [Classes, Inheritance, Func...](401/class02.md)
+* [Data Modeling & NoSQL Database](401/class03.md)
+* 
