@@ -6,9 +6,9 @@ A linked list is a sequence of *Nodes* connected/linked to each other. Each *Nod
 ### Linked List
 A data structure that contains nodes that links/points to the next node in the list.
 ### Singly
-Refers to the number of references the node has. A *Singly* likes list means that there is only one reference, and the reference points to the *next* node in a linked list.
+This refers to the number of references the node has. A *Singly* likes list means that there is only one reference, and the reference points to the *next* node in a linked list.
 ### Doubly
-Doubly refers to there being two (double) references within the node. A *Doubly* linked list means that there is a reference to both the *Next* and  *Previous* node.
+Doubly refers to there being two (double) references within the node. A *Doubly* linked list means that there is a reference to both the *Next* and  *Previous* nodes.
 ### Node
 Nodes are the individual items/links that live in a linked list. Each node contains the data for each link.
 ### Next 

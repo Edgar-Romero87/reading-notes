@@ -42,3 +42,5 @@ This page contains all the notes from my Code Fellows classes.
 * [Data Modeling & NoSQL Database](401/class03.md)
 * [Advanced Mongo/Mongoose](401/class04.md)
 * [Linked List](401/Linked-list.md)
+* [Express](401/class07.md)
+
