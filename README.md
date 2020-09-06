@@ -43,4 +43,6 @@ This page contains all the notes from my Code Fellows classes.
 * [Advanced Mongo/Mongoose](401/class04.md)
 * [Linked List](401/Linked-list.md)
 * [Express](401/class07.md)
+* [Express Routing & Connected](401/class08.md)
+* [API Server](401/class09.md)
 
