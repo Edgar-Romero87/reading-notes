@@ -45,4 +45,5 @@ This page contains all the notes from my Code Fellows classes.
 * [Express](401/class07.md)
 * [Express Routing & Connected](401/class08.md)
 * [API Server](401/class09.md)
+* [Authentication](401/class11.md)
 
