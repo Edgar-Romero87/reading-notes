@@ -12,12 +12,12 @@ This page contains all the notes from my Code Fellows classes.
 * [JS Object Literals; The DOM](content/class-06)
 * [HTML Tables; JS Constructor Functions](content/class-07.md)
 * [Forms and Events](content/class-09.md)
-* [Layot](content/class-08.md)
+* [Layout](content/class-08.md)
 * [Error Handling & Debugging](content/class-10.md)
 * [Assorted Topics](content/class-11.md)
 * [Charts](content/class-12.md)
 * [Local Storage](content/class-13.md)
-* [CSS Animatons](content/class-14.md)
+* [CSS Animations](content/class-14.md)
 * [What Google Learned About Teams](content/clas-15.md)
 
 # **Code 301**
@@ -46,4 +46,5 @@ This page contains all the notes from my Code Fellows classes.
 * [Express Routing & Connected](401/class08.md)
 * [API Server](401/class09.md)
 * [Authentication](401/class11.md)
+* [Stacks and Queues](401/class10.md)
 
