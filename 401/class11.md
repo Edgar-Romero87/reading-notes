@@ -14,17 +14,17 @@ First identify my inputs given, and outputs expected, next I would create my fol
 
 ## Vocabulary Terms
 
-## Router Middleware
+### Router Middleware
 Router-level middleware works in the same way as application-level middleware, except it is bound to an instance of `express.Router()`.
-## Dynamic Module Loading
+### Dynamic Module Loading
 Loading modules asynchrously rather than statically.
-## Singleton Pattern
+### Singleton Pattern
 The Singleton Pattern limits the number of instances of a particular object to just one. This single instance is called the singleton.
 Singletons are useful in situations where system-wide actions need to be coordinated from a single central place.
-## CRUD -> REST Method Matches
+### CRUD -> REST Method Matches
 - Create -> PUT & POST
 - Read -> GET
 - Update -> PUT
 - Delete -> DELETE
-## Mock Testing
+### Mock Testing
 A method in jest used to test methods. Instead of using real life data like credit cards or make network requests. It fake data to be able to test certain methods.
