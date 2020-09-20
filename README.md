@@ -48,5 +48,6 @@ This page contains all the notes from my Code Fellows classes.
 * [Authentication](401/class11.md)
 * [Stacks and Queues](401/class10.md)
 * [OAuth](401/class12.md)
+* [Bearer Authorization](401/class13.md)
 
 
