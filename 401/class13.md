@@ -17,6 +17,7 @@ The authorization code is a temporary code that the client will exchange for an 
 3. **What can you do with an access token?**
 
 Access tokens are the thing that applications use to make API requests on behalf of a user. The access token represents the authorization of a specific application to access specific parts of a user's data. Access tokens must be kept confidential in transit and in storage.
+
 4. **What’s a benefit of using OAuth instead of your own basic authentication?**
 
 OAuth works based on tokens and authorization. 
