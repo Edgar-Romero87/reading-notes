@@ -24,14 +24,14 @@ OAuth works based on tokens and authorization.
 ## Vocabulary Terms
 
 ### Client ID
-Public Idententifier for apps 
+Public Identifier for apps 
 ### Client Secret
-A secret only known to the application and authorization server.
+A secret only is known to the application and authorization server.
 
-### Athentication Endpoint
+### Authentication Endpoint
 Endpoint authentication is an authentication mechanism used to verify the identity of a network's external or remote connecting device.
 ### Access Token Endpoint
-Lets the client access the requested resource if proper credential is provided.
+Lets the client access the requested resource if a proper credential is provided.
 ### API Endpoint
 The point of entry in a communication channel when two systems are interacting. 
 ### Authorization Code
