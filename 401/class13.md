@@ -28,7 +28,6 @@ OAuth works based on tokens and authorization.
 Public Identifier for apps 
 ### Client Secret
 A secret only is known to the application and authorization server.
-
 ### Authentication Endpoint
 Endpoint authentication is an authentication mechanism used to verify the identity of a network's external or remote connecting device.
 ### Access Token Endpoint

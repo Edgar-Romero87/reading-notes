@@ -40,15 +40,15 @@ MongoDB
 
 
 ## Vocabulary Terms
-### database 
+### Database 
 Provides file creation, deletion, update, query and reporting functions.
-### data model 
+### Data model 
 Process of documenting software design as a diagram.
 ### CRUD
 Create, Read, Update, Delete.
-### schema
+### Schema
 Organization structure in a database.
-### sanitize
+### Sanitize
 Protecting the system from malicious data.
 ### Structured Query Language (SQL)
 A relational based language used for updating, deleting and query.
@@ -58,9 +58,9 @@ This is a nonrelational database language scaled horizontally.
 A noSQL object oriented database; does not use columns and rows to structure data.
 ### Mongoose
 Object Data Modeling library.
-### record
+### Record
 A group of related data items stored in fields, with its own datatype.
-### document
+### Document
 A way to store data in a database.
 ### Object Relation Mapping (ORM)
 Programming technique for converting data between incompatible type systems using object-oriented programming languages.

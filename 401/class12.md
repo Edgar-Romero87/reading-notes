@@ -20,25 +20,25 @@ Encoding is for maintaining data usability and can be reversed by employing the 
 A token is used to make security decisions and to store tamper-proof information about some system entity. While a token is generally used to represent only security information, it is capable of holding additional free-form data that can be attached while the token is being created.
 
 ## Vocabulary Terms
-### authentication
+### Authentication
 Authentication is the process of recognizing a user's identity.
-### authorization
+### Authorization
 Determines what you can do/if the client has permissions. 
-### encryption
+### Encryption
 Is the method by which information is converted into secret code that hides the information's true meaning.
-### hashing
+### Hashing
 Is the process of converting a given key into another value.
-### session
+### Session
 Keep users from having to login multiple times.
-### cookie
+### Cookie
 Cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page.
-### token
+### Token
 In general, a token is an object that represents something else, such as another object (either physical or virtual).
 ### Basic Auth
 Is a simple authentication scheme built into the HTTP protocol.
-### encoding
+### Encoding
 Is to transform data so that it can be properly (and safely) consumed by a different type of system, e.g. binary data being sent over email, or viewing special characters on a web page. The goal is not to keep information secret, but rather to ensure that it's able to be properly consumed.
-### secret
+### Secret
 Used by the OAuth Client to Authenticate to the Authorization Server.
-### cryptography
+### Cryptography
 Is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents. ... When transmitting electronic data, the most common use of *cryptography* is to encrypt and decrypt email and other plain-text messages.
