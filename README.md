@@ -52,5 +52,4 @@ This page contains all the notes from my Code Fellows classes.
 * [Access Control (ACL)](401/class14.md)
 * [Event Driven Applications](401/class16.md)
 * [TCP Servers](401/class17.md)
-
-
+* [Trees](401/class17b-trees.md)
