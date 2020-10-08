@@ -3,8 +3,9 @@
 1. **What is the benefit of transforming data into packets?**
 - Optimize the use of the channel capacity available.
 - Minimize the transmission latency.
-- Increase robustness of communication.
-2. **UDP is often refereed to as a connectionless protocol. Why is this?**
+- Increase the robustness of communication.
+
+2. **UDP is often referred to as a connectionless protocol. Why is this?**
 
 DNS, TFTP, and many other protocols rely on UDP for their data transmission. UDP is a connectionless protocol. No connection needs to be established between the source and destination before you transmit data. UDP does not have a mechanism to make sure that the payload is not corrupted.
 
@@ -18,13 +19,13 @@ A port of a client can be used by a single connection. The reason is a port can 
 
 5. **Can an application be both a socket server and a socket connection?**
 
-Yes if you use two different ports or if the sockets won't be using the same port at the same time.
+Yes, if you use two different ports or if the sockets won't be using the same port at the same time.
 
 ## Vocabulary Terms
 ### OSI Model
 The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system. The OSI model characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software.
 ### TCP Model
-TCP allows for transmission of information in both directions. This means that computer systems that communicate over TCP can send and receive data at the same time, similar to a telephone conversation. The protocol uses segments (packets) as the basic units of data transmission.The TCP/IP reference model has four layers: Network interface, Internet, Transport, and Application.
+TCP allows for the transmission of information in both directions. This means that computer systems that communicate over TCP can send and receive data at the same time, similar to a telephone conversation. The protocol uses segments (packets) as the basic units of data transmission. The TCP/IP reference model has four layers: Network interface, Internet, Transport, and Application.
 ### TCP
 TCP (Transmission Control Protocol) is a standard that defines how to establish and maintain a network conversation through which application programs can exchange data. TCP works with the Internet Protocol (IP), which defines how computers send packets of data to each other.
 ### UDP
