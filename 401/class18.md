@@ -34,3 +34,18 @@ UDP (User Datagram Protocol) is a communications protocol that is primarily used
 A packet is a small amount of data sent over a network, such as a LAN or the Internet. Similar to a real-life package, each packet includes a source and destination as well as the content (or data) being transferred.
 ### Socket
 A socket is one endpoint of a two-way communication link between two programs running on the network. A socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to. 
+
+## Additional Resources 
+[Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
+
+[Socket.io Tutorial](https://www.tutorialspoint.com/socket.io/)
+
+[Socket.io vs Web Sockets](https://www.educba.com/websocket-vs-socket-io/)
+
+[Socket.io Documentation](https://socket.io/docs/)
+
+[Socket.io Server API](https://socket.io/docs/server-api)
+
+[Socket.io Client API](https://socket.io/docs/client-api)
+
+[Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
