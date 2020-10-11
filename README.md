@@ -54,3 +54,4 @@ This page contains all the notes from my Code Fellows classes.
 * [TCP Servers](401/class17.md)
 * [Trees](401/class17b-trees.md)
 * [Socket.io](401/class18.md)
+* [Message Queues](401/class19.md)
