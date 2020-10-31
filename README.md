@@ -55,3 +55,5 @@ This page contains all the notes from my Code Fellows classes.
 * [Trees](401/class17b-trees.md)
 * [Socket.io](401/class18.md)
 * [Message Queues](401/class19.md)
+* [Component Based UI](401/class26.md)
+
