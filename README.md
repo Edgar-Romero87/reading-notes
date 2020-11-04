@@ -56,4 +56,4 @@ This page contains all the notes from my Code Fellows classes.
 * [Socket.io](401/class18.md)
 * [Message Queues](401/class19.md)
 * [Component Based UI](401/class26.md)
-
+* [Props and State](401/class27.md)
