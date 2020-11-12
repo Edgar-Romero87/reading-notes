@@ -57,3 +57,5 @@ This page contains all the notes from my Code Fellows classes.
 * [Message Queues](401/class19.md)
 * [Component Based UI](401/class26.md)
 * [Props and State](401/class27.md)
+* [Component Composition](401/class28.md)
+* [Hash Tables](401/class28b.md)
