@@ -16,7 +16,6 @@ Because then we can test the actual interaction the user is having with the Reac
 
 React - a popular front-end technology like AngularJS - is a Javascript framework, but it only works with the View layer, which means you have only the **V** in the **MVC - Model-View-Controller - architecture**. React gives you the template language and a few function hooks to render HTML.
 
-------
 ## Vocabulary Terms
 ### BDD
 Behavior Driven Development (BDD) is a branch of Test Driven Development (TDD). BDD uses human-readable descriptions of software user requirements as the basis for software tests. ... Each test is based on a user story written in the formally specified ubiquitous language based on English.
@@ -26,6 +25,8 @@ An acceptance test is a formal description of the behavior of a software product
 "Mounting" is when React "renders" the component for the first time and actually builds the initial DOM from those instructions.
 ### build
 In software development, a build is the process of converting source code files into standalone software artifact that can be run on a computer, or the result of doing so.
+
+----
 
 [setState Explained](https://css-tricks.com/understanding-react-setstate/).
 
@@ -39,5 +40,4 @@ In software development, a build is the process of converting source code files 
 
 [RTL Testing Example](https://thomlom.dev/beginner-guide-testing-react-apps/).
 
-----
 [Roles Reference](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques#Roles).

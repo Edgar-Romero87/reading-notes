@@ -20,6 +20,7 @@ The state is an instance of React Component Class can be defined as an object of
 ### Application state
 This is the state of an application as a whole. Unlike component state which is specific to that component, application state is global and can be accessed by any component within the application.
 
+----
 [React Basics Recap](https://www.freecodecamp.org/news/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030/)
 
 [props.children](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)

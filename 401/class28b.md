@@ -36,6 +36,7 @@ Hashing is implemented in two steps:
 hash = hashfunc(key)
 index = hash % array_size
 ```
+----
 
 ## Resources
 [Intro to Hash Tables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)

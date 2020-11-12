@@ -13,6 +13,7 @@ A socket.io server will attach to an HTTP server so it can serve its own client 
 - Transmits data to the server.
 
 4. **What happens when a server emits an event?**
+
 - Send a message over to the client.
 - A message event is sent to the WebSocket object. To handle it, add an event listener for the message event, or use the on message event handler. To begin listening for incoming data.
 
@@ -21,6 +22,7 @@ A socket.io server will attach to an HTTP server so it can serve its own client 
 Unhandled messages are just ignored. Nothing happens with it.
 
 6. **How can we mitigate this?**
+
 Unhandled messages are just ignored. Nothing happens with it.
 
 
