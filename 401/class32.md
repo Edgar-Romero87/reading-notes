@@ -1,0 +1,73 @@
+# Custom Hooks
+
+1. **What does a component’s lifecycle refer to?**
+* In applications with many components, it’s very important to free up resources taken by the components when they are destroyed.
+
+* We want to set up a timer whenever the Clock is rendered to the DOM for the first time. This is called “mounting” in React.
+
+* We also want to clear that timer whenever the DOM produced by the Clock is removed. This is called “unmounting” in React.
+
+2. **Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect**
+- [useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback)
+
+Pass an inline callback and an array of dependencies. useCallback will return a memoized version of the callback that only changes if one of the dependencies has changed. This is useful when passing callbacks to optimized child components that rely on reference equality to prevent unnecessary renders.
+
+3. **Why are functional components preferred over class components?**
+- [Hooks Intro](https://reactjs.org/docs/hooks-intro.html)
+
+Hooks allow you to reuse stateful logic without changing your component hierarchy. This makes it easy to share Hooks among many components or with the community. Hooks let you use more of React’s features without classes. Hooks provide access to imperative escape hatches and don’t require you to learn complex functional or reactive programming techniques.
+
+4. **What is wrong with the following code?**
+```
+import React, {useState, useEffect} from 'react';
+
+function MyComponent(props) {
+  const [count, setCount] = useState(0);
+
+  function changeCount(e) {
+    setCount(e.target.value);
+  }
+
+  let renderedItems = []
+
+  for (let i = 0; i < count; i++) {
+    useEffect( () => {
+      console.log('component mount/update');
+    }, [count]);
+
+    renderedItems.push(<div key={i}>Item</div>);
+  }
+
+  return (<div>
+     <input type='number' value={count} onChange={changeCount}/>
+      {renderedItems}
+    </div>);
+}
+```
+
+
+- Never call Hooks from inside a loop, condition or nested function
+
+
+## Vocabulary Terms
+
+### state hook
+Hook that lets you add React state to function components
+
+### effect hook
+The Effect Hook lets you perform side effects in function components. By using this Hook, you tell React that your component needs to do something after render.
+
+### reducer hook
+Is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one. It also lets you optimize performance for components that trigger deep updates because you can pass dispatch down instead of callbacks.
+
+----
+
+* [Custom hooks - all you need to know](https://www.telerik.com/blogs/everything-you-need-to-create-a-custom-react-hook)
+* [Async hooks](https://dev.to/vinodchauhan7/react-hooks-with-async-await-1n9g)
+* [useReducer Hook](https://reactjs.org/docs/hooks-reference.html#usereducer)
+* [react custom hooks](https://reactjs.org/docs/hooks-custom.html)
+
+Hooks Lists/Collections
+* [use hooks](https://usehooks.com/)
+* [hooks list](https://github.com/rehooks/awesome-react-hooks)
+* [10 essential react hooks](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)

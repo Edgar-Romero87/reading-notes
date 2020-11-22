@@ -61,4 +61,6 @@ This page contains all the notes from my Code Fellows classes.
 * [Hash Tables](401/class28b.md)
 * [Routing](401/class29.md)
 * [Hooks API](401/class31.md)
+* [Customs Hooks](401/class32.md)
+
 
