@@ -1,8 +1,9 @@
 # **CodeFellows Reading Notes**
 
-This page contains all the notes from my Code Fellows classes. 
-
-# **Code 201** 
+This page contains all the notes from my Code Fellows classes.
+ 
+----
+## **201** 
 
 * [Structures of a web Page; Markup; HTML5 Elements; Process and Design; The ABC of Programing](content/class-01.md)
 * [HTML Text; CSS Introduction and Basic JavaScript Instructions](content/class-02)
@@ -20,7 +21,8 @@ This page contains all the notes from my Code Fellows classes.
 * [CSS Animations](content/class-14.md)
 * [What Google Learned About Teams](content/clas-15.md)
 
-# **Code 301**
+----
+## **301**
 * [Shay Howe's intro to RWD, All About Floats](301/class-01.md)
 * [jQuery, Events, and The DOM. 6 Reasons for Pair Programing](301/class-02.md)
 * [MUSTACHE and FLEXBOX](301/class-03.md)
@@ -36,7 +38,8 @@ This page contains all the notes from my Code Fellows classes.
 * [DataBase Normalization](301/class-14.md)
 * [Diversity and Inclusion](301/class-15.md)
 
-# **Code 401**
+----
+## **401**
 * [Node Ecosystem, TDD, CI/CD](401/class01.md)
 * [Classes, Inheritance, Func...](401/class02.md)
 * [Data Modeling & NoSQL Database](401/class03.md)
@@ -62,5 +65,5 @@ This page contains all the notes from my Code Fellows classes.
 * [Routing](401/class29.md)
 * [Hooks API](401/class31.md)
 * [Customs Hooks](401/class32.md)
-
+* [Context API](404/class33.md)
 
