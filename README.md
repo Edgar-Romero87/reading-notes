@@ -66,4 +66,5 @@ This page contains all the notes from my Code Fellows classes.
 * [Hooks API](401/class31.md)
 * [Customs Hooks](401/class32.md)
 * [Context API](401/class33.md)
+* [`<Login />` and `<Auth />`](401/class34.md)
 
