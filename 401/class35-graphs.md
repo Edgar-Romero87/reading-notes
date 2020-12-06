@@ -1,21 +1,21 @@
 # Graphs 
 A graph is a non-linear data structure that can be looked at as a collection of vertices(or nodes) potentially connected by line segments named edges.
 
- ## Terms
- * ***Graph***: Any representation of data.
- * ***Edge***:  The connection between two nodes
- * ***Neighbor***: Two nodes that are connected.
- * ***Vertex***: The nodes ina graph.
- * ***Degree***: The number of nodes connected to a vertex.
+## Terms
+* ***Graph***: Any representation of data.
+* ***Edge***:  The connection between two nodes
+* ***Neighbor***: Two nodes that are connected.
+* ***Vertex***: The nodes ina graph.
+* ***Degree***: The number of nodes connected to a vertex.
 
- * An undirected graph is a graph where each edge is undirected or bi-directional. This means that it doesn't move in any direction.
- * A directed graph, also called a Diagraph, is a graph where every edge is directed. Each node is directed at a nother node with a specific requirement of what node should be referenced or not.
+* An undirected graph is a graph where each edge is undirected or bi-directional. This means that it doesn't move in any direction.
+* A directed graph, also called a Diagraph, is a graph where every edge is directed. Each node is directed at another node with a specific requirement of what node should be referenced or not.
 
 ### THE THREE DIFFERENT TYPES OF GRAPHS ARE:
 
-  * Completed graphs: A graph where all the nodes are connected to all other nodes.
-  * Connected graphs: A graph where all of the nodes have at least one edge. ( A tree is a form of a connected graph )
-  * Disconnected graphs: A graph where some vertices may not have edges. It is possible to have a node that is not connected to any other nodes (this is called an island).
+* Completed graphs: A graph where all the nodes are connected to all other nodes.
+* Connected graphs: A graph where all of the nodes have at least one edge. ( A tree is a form of a connected graph )
+* Disconnected graphs: A graph where some vertices may not have edges. It is possible to have a node that is not connected to any other nodes (this is called an island).
 
 ### Acyclic vs Cyclic
 
