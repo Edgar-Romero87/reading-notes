@@ -5,21 +5,21 @@ This page contains all the notes from my Code Fellows classes.
 ----
 ## **201** 
 
-* [Structures of a web Page; Markup; HTML5 Elements; Process and Design; The ABC of Programing](content/class-01.md)
-* [HTML Text; CSS Introduction and Basic JavaScript Instructions](content/class-02)
-* [HTML Lists, CSS Boxes, JS Control Flow](content/class-03.md)
-* [HTML Links, CSS Layout, JS Functions](content/class-04.md)
-* [HTML Images; CSS Color & Text](content/class-05.md)
-* [JS Object Literals; The DOM](content/class-06)
-* [HTML Tables; JS Constructor Functions](content/class-07.md)
-* [Forms and Events](content/class-09.md)
-* [Layout](content/class-08.md)
-* [Error Handling & Debugging](content/class-10.md)
-* [Assorted Topics](content/class-11.md)
-* [Charts](content/class-12.md)
-* [Local Storage](content/class-13.md)
-* [CSS Animations](content/class-14.md)
-* [What Google Learned About Teams](content/clas-15.md)
+* [Structures of a web Page; Markup; HTML5 Elements; Process and Design; The ABC of Programing](201/class-01.md)
+* [HTML Text; CSS Introduction and Basic JavaScript Instructions](201/class-02)
+* [HTML Lists, CSS Boxes, JS Control Flow](201/class-03.md)
+* [HTML Links, CSS Layout, JS Functions](201/class-04.md)
+* [HTML Images; CSS Color & Text](201/class-05.md)
+* [JS Object Literals; The DOM](201/class-06)
+* [HTML Tables; JS Constructor Functions](201/class-07.md)
+* [Forms and Events](201/class-09.md)
+* [Layout](201/class-08.md)
+* [Error Handling & Debugging](201/class-10.md)
+* [Assorted Topics](201/class-11.md)
+* [Charts](201/class-12.md)
+* [Local Storage](201/class-13.md)
+* [CSS Animations](201/class-14.md)
+* [What Google Learned About Teams](201/class-15.md)
 
 ----
 ## **301**
@@ -68,4 +68,4 @@ This page contains all the notes from my Code Fellows classes.
 * [Context API](401/class33.md)
 * [`<Login />` and `<Auth />`](401/class34.md)
 * [Graphs](401/class35-graphs.md)
-
+* [Application State with Redux](401/class36.md)
